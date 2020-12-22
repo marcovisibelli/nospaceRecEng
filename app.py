@@ -72,7 +72,7 @@ def product_section(product_id,problem_id):
 
 
 # questa e' la risoluzione 
-@app.route('/product/<product_id>/<problem_id>/<response_id>', methods=['GET'])
+@app.route('/product/<product_id>/<problem_id>/<response_id>', methods=['POST'])
 def feedback_section(product_id,problem_id,response_id):
     global re_inst,user_id
 
