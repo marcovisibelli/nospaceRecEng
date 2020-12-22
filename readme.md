@@ -2,4 +2,5 @@
 
 questo servizio fornisce le informazioni al sistema AR tramite un API dettagliata come segue:
 
- 
+
+[a relative link](/products)
